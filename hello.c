@@ -3,4 +3,4 @@
 
 int main(void) { привет, Леша
 	printf("Hello, world!\n");
-}
+} Здравствуй!
